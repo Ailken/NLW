@@ -5,7 +5,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
-[clique aqui para acessar](https://ailken.github.io/nlw-esports/)
+[clique aqui para acessar](https://ailken.github.io/NLW)
 
 ## Tecnologias
 
